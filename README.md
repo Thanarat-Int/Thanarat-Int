@@ -133,39 +133,12 @@
 
 </div>
 
----
-
 <!-- ════════════════════════════════════════════════════════════
-     Focus area
-     ════════════════════════════════════════════════════════════ -->
-
-## 🔮 &nbsp; In the Cauldron
-
-```ts
-const focus = {
-  building   : ["thai-alpr (deep-alpr)", "RAG over Thai documents",
-                "edge-AI on Jetson Orin", "RFQ wizard estimator"],
-  exploring  : ["vision-language models", "model quantization (INT8)",
-                "fine-tuning Llama for SEA languages"],
-  philosophy : "real metrics > demo magic · ship the boring 95%",
-  signature  : "if it doesn't run on the customer's PC on day one,",
-               "it isn't done yet.",
-};
-```
-
----
-
-<!-- ════════════════════════════════════════════════════════════
-     Quote of the build
+     Footer wave
      ════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
-
-<br><br>
-
-<!-- bottom wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,5&height=120&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,5&height=140&section=footer&animation=fadeIn" width="100%" />
 
 </div>

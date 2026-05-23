@@ -41,7 +41,7 @@
 <sub>YOLO &middot; SAM &middot; ViT<br>OCR (CRNN, TrOCR) &middot; DETR</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="38" /><br>
+<img src="https://cdn.simpleicons.org/huggingface/FFD21F" width="38" /><br>
 <b>NLP &middot; Embeddings</b><br>
 <sub>BERT &middot; RoBERTa &middot; XLM<br>BGE &middot; E5 &middot; SentenceBERT</sub>
 </td>
@@ -51,7 +51,7 @@
 <sub>LangChain &middot; LangGraph<br>CrewAI &middot; AutoGen &middot; MCP</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="38" /><br>
+<img src="https://cdn.simpleicons.org/qdrant/DC382D" width="38" /><br>
 <b>RAG &middot; Vector DB</b><br>
 <sub>Qdrant &middot; Weaviate<br>pgvector &middot; Chroma &middot; Pinecone</sub>
 </td>
@@ -73,7 +73,7 @@
 <sub>XGBoost &middot; LightGBM<br>scikit-learn &middot; CatBoost</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" width="38" /><br>
+<img src="https://cdn.simpleicons.org/nvidia/76B900" width="38" /><br>
 <b>Edge &middot; Acceleration</b><br>
 <sub>ONNX &middot; TensorRT<br>OpenVINO &middot; Jetson &middot; CUDA</sub>
 </td>

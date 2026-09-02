@@ -195,29 +195,6 @@
      Telemetry — github stat widgets
      ════════════════════════════════════════════════════════════ -->
 
-## Telemetry
-
-<div align="center">
-
-<a href="https://github.com/Thanarat.C [沈景渊]">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Thanarat.C [沈景渊]&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&title_color=A78BFA&icon_color=8B5CF6&text_color=94a3b8&bg_color=0F0F23" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanarat.C [沈景渊]&layout=compact&hide_border=true&title_color=A78BFA&text_color=94a3b8&bg_color=0F0F23&langs_count=8" />
-</a>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thanarat.C [沈景渊]&hide_border=true&background=0F0F23&stroke=0F0F23&ring=8B5CF6&fire=EF4444&currStreakNum=A78BFA&sideNums=94a3b8&currStreakLabel=A78BFA&sideLabels=94a3b8&dates=64748b" alt="streak" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Thanarat.C [沈景渊]&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thanarat.C [沈景渊]&bg_color=0F0F23&color=A78BFA&line=8B5CF6&point=EF4444&area=true&hide_border=true" alt="activity graph" width="98%" />
-
-</div>
-
 ---
 
 <!-- ════════════════════════════════════════════════════════════

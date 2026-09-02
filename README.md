@@ -14,8 +14,6 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Thanarat.C [沈景渊]/Thanarat.C [沈景渊]/output/github-contribution-grid-snake-dark.svg" alt="snake animation eating contribution dots" width="100%" />
-
 </div>
 
 ---

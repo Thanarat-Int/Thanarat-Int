@@ -1,5 +1,5 @@
 <!-- ════════════════════════════════════════════════════════════
-     Hero · animated wave header
+     Hero - animated wave header
      ════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,5&height=220&section=header&text=AI%20WIZARD&fontColor=ffffff&fontSize=72&fontAlign=50&fontAlignY=42&desc=summoning%20pixels%20%E2%80%A2%20training%20networks%20%E2%80%A2%20shipping%20intelligence&descAlign=50&descAlignY=68&descSize=15&animation=fadeIn" width="100%" alt="AI Wizard banner" />
@@ -19,7 +19,7 @@
 ---
 
 <!-- ════════════════════════════════════════════════════════════
-     AI Domain Matrix — every field of modern AI
+     AI Domain Matrix - every field of modern AI
      ════════════════════════════════════════════════════════════ -->
 
 ## AI Domains
